@@ -1,7 +1,7 @@
 # MyLocalProjects
 Simple Local Projects manager
 
- This is a very simple local projects laucher/managment tool that I use for my development projects. 
+ This is a very simple local projects launcher/managment tool that I use for my development projects. 
  HTML, CSS, PHP, Jquery, twitter bootstrap are used in the making.
  It Makes it easier for me than typing the url every time I want to test projects. 
  
